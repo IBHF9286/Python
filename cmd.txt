@@ -1,2 +1,7 @@
+#this is the command to Install Manim Module in python
+
 sudo apt update
 sudo apt install -y libcairo2-dev libpango1.0-dev ffmpeg pkg-config
+pip install Manim
+
+
